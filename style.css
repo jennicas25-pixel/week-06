@@ -1,4 +1,47 @@
   <body { background-color:#D9FFF4; }
-  h1 { style=color:#43637E; }
-  p { style=color:#65DCD5; }
+  
+  h1 { style=color:#43637E;
+       text-align:center; 
+	   font-size:40pt;
+	   font-weight: bold;
+	   font-family: sans-serif;
+	   font-style: italic;
+	 }
+  
+  p { style=color:#65DCD5;
+      background-color:#67A2C5;
+	  padding: 0,6em;
+	  margin: auto;
+	  margin-bottom: 2em;
+	  text-align: right;
+	  border: 4px dashed black;
+	  width: 50%;
+	  min-width: 40em;
+  }
+  
+  .kanan {text-align: right;}
+  .kiri {text-align: left;}
+  .tengah {text-align: center;}
+  
+  .begronijo {background-color: #A4B885;}
+  .begronbiru {background-color: #CFEBFF;}
+  .begronkuning {background-color: #FFFCE1;}
+  .begronmerah {background-color: #BD4444;}
+  .begronoren {background-color: #E77B49;}
+  .begronpink {background-color: #FF84BA;}
+  .begroncoklat {background-color: #8B5E3C;}
+  .begronlavender {background-color: #B5B9F0;}
+  .begronpeach {background-color: #F5CBCB;}
+  
+  
+  
+  div {
+	  text-align:center;
+  }
+  
+  a {
+	  color: purple;
+	  text decoration:none;
+	  
+  }
 
